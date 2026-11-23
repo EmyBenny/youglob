@@ -1,0 +1,6 @@
+{
+  "name": "Kromatik Apparel",
+  "description": "Urban streetwear e-commerce platform with real-time inventory tracking, secure payment gateway, push notifications, social sharing, and admin analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
